@@ -12,7 +12,7 @@ Continually growing my professional presence on [GitHub](https://github.com/maur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" style="vertical-align:middle; margin-right: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" style="vertical-align:middle; margin-right: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" style="vertical-align:middle; margin-right: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="40" style="vertical-align:middle; margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="60" style="vertical-align:middle; margin-right: 8px;" />
 </p>
 </div>
 
