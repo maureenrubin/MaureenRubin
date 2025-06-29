@@ -1,6 +1,6 @@
-# Maureen Rubin
+# MAUREEN RUBIN
 
-Continually growing my professional presence on [GitHub](https://github.com/maureenrubin), [LinkedIn](https://www.linkedin.com/in/maureen-rubin-b35a3a31a), and Upwork. My expertise centers around **C#**, **ASP.NET Core WEB API**, **Microsoft SQL Server**, and **Blazor**, while actively learning and applying software development practices such as **Clean Architecture**, **Object-Oriented Programming (OOP)**, and **CQRS** to build robust software solutions.
+Continually growing my professional presence on [GitHub](https://github.com/maureenrubin), [LinkedIn](https://www.linkedin.com/in/maureen-rubin-b35a3a31a), and Upwork. My expertise centers around **.NET DEVELOPMENT**, **ASP.NET Core WEB API**, **Microsoft SQL Server**, and **Blazor**, while actively learning and applying software development practices such as **Clean Architecture**, **Object-Oriented Programming (OOP)**, and **CQRS** to build robust software solutions.
 
 
 ## Technologies and Tools
