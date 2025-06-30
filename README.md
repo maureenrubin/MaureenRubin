@@ -1,6 +1,6 @@
 <div align="center">
   
-### **Hi! I'm Maureen, a Software Developer**
+# **Hi! I'm Maureen, a Software Developer**
 
 </div>
 
