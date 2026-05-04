@@ -1,5 +1,5 @@
 <div align="center">
-# 𝗛𝗶! 𝗜'𝗺 𝗠𝗮𝘂𝗿𝗲𝗲𝗻,
+𝗛𝗶! 𝗜'𝗺 𝗠𝗮𝘂𝗿𝗲𝗲𝗻,
 </div>
 <p align="center">
 Continually growing my professional presence on  
@@ -15,7 +15,7 @@ and **CQRS** to build robust software solutions.
 
 
 <div align="center">
-## 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 & 𝗧𝗼𝗼𝗹𝘀
+ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 & 𝗧𝗼𝗼𝗹𝘀
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -32,7 +32,7 @@ and **CQRS** to build robust software solutions.
 </div>
 
 <div align="center">
-### Check my portfolio below ⬇️
+Check my portfolio below ⬇️
 </div>
 
 <p align="center">
