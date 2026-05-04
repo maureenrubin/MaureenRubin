@@ -1,21 +1,21 @@
-<div align="center">
-𝗛𝗶! 𝗜'𝗺 𝗠𝗮𝘂𝗿𝗲𝗲𝗻,
-</div>
+
+<h1 align="center"> 𝗛𝗶! 𝗜'𝗺 𝗠𝗮𝘂𝗿𝗲𝗲𝗻, </h1>
+
 <p align="center">
-Continually growing my professional presence on  
+I Continually growing my professional presence on  
 <a href="https://github.com/maureenrubin">GitHub</a>,  
 <a href="https://www.linkedin.com/in/maureen-rubin-b35a3a31a">LinkedIn</a>,  
 and Upwork.  
 </p>
 
-
 My expertise centers around **.NET Development**, **ASP.NET Core WEB API**, **Microsoft SQL Server**, and **Blazor**, 
 while actively learning and applying software development practices such as **Clean Architecture**, **Object-Oriented Programming (OOP)**, 
 and **CQRS** to build robust software solutions.
 
-
 <div align="center">
- 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 & 𝗧𝗼𝗼𝗹𝘀
+
+## 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 & 𝗧𝗼𝗼𝗹𝘀
+
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -29,10 +29,13 @@ and **CQRS** to build robust software solutions.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 </div>
 
 <div align="center">
-Check my portfolio below ⬇️
+
+#### Check my portfolio below ⬇️
+
 </div>
 
 <p align="center">
